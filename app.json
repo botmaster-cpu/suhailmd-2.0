@@ -10,7 +10,7 @@
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
+      "description": "master",    
       "value": "Suhail-X",
       "required" :true
     },   
